@@ -12,7 +12,6 @@ module.exports = {
     },
 
     apiPackageMode : 'Basic', //Basic or Production
-    CMC_PRO_API_KEY : 'caed7c8d-c985-485e-8f8e-f1c2755f8eee',
 
     transporter: null,
     requestTimeout: 10 * 1000,
